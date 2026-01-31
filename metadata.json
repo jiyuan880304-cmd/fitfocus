@@ -1,0 +1,5 @@
+{
+  "name": "FitFocus - Weight Loss Tracker",
+  "description": "A comprehensive weight loss companion featuring meal tracking, calorie analysis with Gemini AI, fasting timer, water reminders, and health logs.",
+  "requestFramePermissions": []
+}
